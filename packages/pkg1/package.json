@@ -12,6 +12,7 @@
   "dependencies": {
     "is-even": "^1.0.0"
   },
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git@github.com:joshi-pawan/test-monorepo.git"
@@ -19,5 +20,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@joshi-pawan"
   },
-  "gitHead": "5dc3cef8cbb8ee49a5c1616ba158328ac9061c37"
+  "gitHead": "3f7d7d43955d51ce02b7bb364457f533946c33ec"
 }
