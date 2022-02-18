@@ -18,5 +18,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@joshi-pawan"
-  }
+  },
+  "gitHead": "5dc3cef8cbb8ee49a5c1616ba158328ac9061c37"
 }
