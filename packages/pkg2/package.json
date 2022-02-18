@@ -12,7 +12,6 @@
   "dependencies": {
     "is-object": "^1.0.2"
   },
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git@github.com:joshi-pawan/test-monorepo.git"
